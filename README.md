@@ -14,6 +14,10 @@
 ### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<a href="https://github.com/yasinnkhann/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinnkhann&show_icons=true&count_private=true&theme=dracula" />
+</a>
+
 ##### Connect with me on Linkedin:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinnkhann/)
 
