@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinnkhann&show_icons=true&count_private=true&theme=dracula" />
 </a>
 
-##### Connect with me on Linkedin:
+#### Connect with me on Linkedin:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinnkhann/)
 
 <!--
